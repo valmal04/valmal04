@@ -36,7 +36,7 @@ I enjoy exploring different areas of cybersecurity and understanding how systems
 
 Hands-on network enumeration labs using Nmap, including exercises performed on a home network and on the intentionally vulnerable Metasploitable 2 environment.
 
-### 🛡️ [Linux Hardening Project]((https://github.com/valmal04/linux-hardening-project)
+### 🛡️ [Linux Hardening Project](https://github.com/valmal04/linux-hardening-project)
 Basic security auditing and hardening of a Kali Linux installation, documenting configuration changes using a before/after methodology.
 
 ### 🐍 [Python Log Analyzer](https://github.com/valmal04/python-log-analyzer)
